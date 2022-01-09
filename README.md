@@ -40,8 +40,8 @@ Most of my code has to remain private - unfortunately, but I will  try to publis
 <img align="left" height="42px" valign="middle" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="42px" valign="middle" alt="microsoft-sql-server" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
 <img align="left" height="42px" valign="middle" alt="jquery" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg" />
-<img align="left" height="42px" valign="middle" alt="GitHub" src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" />
-
+<img align="left" height="42px" valign="middle" alt="bootstrap" src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" />
+<img align="left" height="42px" valign="middle" alt="grunt" src="https://cdn.cdnlogo.com/logos/g/53/grunt.svg" />
 
 
 
