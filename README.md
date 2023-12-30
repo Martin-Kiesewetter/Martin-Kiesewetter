@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Future Goals: Contribute more to Open Source projects
 
 ## Sorry
 Most of my code has to remain private - unfortunately, but I will  try to publish to the community whenever possible. 
