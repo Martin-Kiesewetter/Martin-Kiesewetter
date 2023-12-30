@@ -42,7 +42,7 @@ Most of my code has to remain private - unfortunately, but I will  try to publis
 <img align="left" height="42px" valign="middle" alt="jquery" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg" />
 <img align="left" height="42px" valign="middle" alt="bootstrap" src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" />
 <img align="left" height="42px" valign="middle" alt="grunt" src="https://cdn.cdnlogo.com/logos/g/53/grunt.svg" />
-<img align="left" height="42px" valign="middle" alt="grunt" src="https://cdn.cdnlogo.com/logos/g/53/grunt.svg" />
+<img align="left" height="42px" valign="middle" alt="grunt" src="https://cdnlogo.com/logos/d/41/docker.svg" />
 
 
 
