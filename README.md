@@ -8,7 +8,7 @@
 - 🥅 Future Goals: Contribute more to Open Source projects
 
 ## Sorry
-Most of my code has to remain private - unfortunately, but I will  try to publish to the community whenever possible. 
+Most of my code has to remain private - unfortunately, but I will  try to publish to the community whenever possible. Maybe my [favorite links](myLinks.md) will help you.
 
 ### Connect with me:
 
